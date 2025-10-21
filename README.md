@@ -2,7 +2,7 @@
 
 ###
 
-<h4 align="left">A passionate front-end developer with 2 years of experience and a lifelong learner dedicated to crafting engaging, accessible, and responsive web applications.</h4>
+<h4 align="left">A passionate front-end developer with 3 years of experience and a lifelong learner dedicated to crafting engaging, accessible, and responsive web applications.</h4>
 
 ###
 
